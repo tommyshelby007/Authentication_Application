@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Authentication_Application</string>
+    <string name="G_welcome">Welcome to G comunity</string>
+    <string name="logout_btn">logout</string>
+    <string name="authentication">Authentication App</string>
+    <string name="hint_login" />
+</resources>
